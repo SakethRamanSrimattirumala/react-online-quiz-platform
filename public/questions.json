@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "question": "What is the full form of HTML in Web Development?",
+      "options": ["Hyper Test Markup Language", "Hypor Testor Markup Language", "Hyper Text Markup Language", "Hyper Text Marketing Language"],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "What is the lanaguage used for client side scripting?",
+      "options": ["Java", "C", "ReactJS", "JavaScript"],
+      "answer": "JavaScript"
+    },
+    {
+      "id": 3,
+      "question": "What does CSS stand for?",
+      "options": ["Central Style Sheets","Cascading Style Sheets","Cascading Simple Sheets","Computer Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is used to read a HTML page and render it?",
+      "options": ["Web Server","Web Matrix","Web Browser","None of the options above"],
+      "answer": "Web Browser"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a popular front-end framework for building user interfaces in JavaScript?",
+      "options": ["ReactJS","Laravel","Django","Flask"],
+      "answer": "ReactJS"
+    }
+  ]
